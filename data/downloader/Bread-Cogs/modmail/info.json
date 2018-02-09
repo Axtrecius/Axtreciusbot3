@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "BakersBakeBread",
+    "INSTALL_MSG" : "Remember to set the channel you'd like the modmail to go to!",
+    "NAME" : "ModMail",
+    "SHORT" : "Messages DM'd to the bot will appear in set channel.",
+    "DESCRIPTION" : "Messages DM'd to the bot will appear in set channel.",
+    "TAGS" : ["modmail", "mod", "mail"],
+    "REQUIREMENTS" : ["tabulate"],
+    "HIDDEN" : false
+}

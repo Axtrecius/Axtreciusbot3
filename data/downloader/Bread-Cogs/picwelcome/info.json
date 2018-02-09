@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "BakersBakeBread",
+    "INSTALL_MSG" : "Remember to set the channel you'd like the users welcomed!",
+    "NAME" : "PicWelcome",
+    "SHORT" : "Welcome's users to the server with an image",
+    "DESCRIPTION" : "Messages DM'd to the bot will appear in set channel.",
+    "TAGS" : ["welcome", "image", "welcomer"],
+    "REQUIREMENTS" : ["PIL"],
+    "HIDDEN" : false
+}

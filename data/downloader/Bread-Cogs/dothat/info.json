@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "BakersBakeBread",
+    "INSTALL_MSG" : "Be nice.",
+    "NAME" : "dothat",
+    "SHORT" : "Do anything, to anyone, anytime.",
+    "DESCRIPTION" : "Do anything, to anyone, anytime.",
+    "TAGS" : ["dothat", "kill", "poop"],
+    "REQUIREMENTS" : ["tabulate"],
+    "HIDDEN" : false
+}
